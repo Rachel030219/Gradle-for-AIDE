@@ -7,3 +7,5 @@ Android Studio使用的是Gradle构造，Gradle是以Groovy语言为基础，面
 其实在AIDE上早就有了Gradle的工程架构，在3.2中似乎只能使用Gradle构造来新建工程了。然而对于这个强大的工具，大部分吧友还没有了解如何使用，甚至有吧友抱怨只能使用旧版创建工程。
 本文就要来带领大家，走出旧的Eclipse架构，了解AIDE自带的Gradle构造及其使用，顺便还会讲解如何将Eclipse工程转化为Gradle工程。  
 那么，让我们开始吧！
+ 
+[下一篇>>>](./ChapterOne.md)
