@@ -85,5 +85,5 @@ dependencies {
 那么对于 `android{...}` 的分析就到这里。下面是 `dependencies{...}` 依赖，将在下一节讲明。  
 
 > [ 聊一聊Android 6.0的运行时权限 ](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
- 
- `Rachel暂时不在家哦，期待回家更新吧` 
+
+[下一篇>>>](./ChapterTwoThree.md)
